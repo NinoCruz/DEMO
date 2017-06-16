@@ -1,0 +1,35 @@
+h1 {
+	color: aqua;
+	font-size: 50px;
+	font-family: Times New Roman;
+	text-align: center;
+}
+body {
+	color:cornsilk;
+}
+img {
+	height: 100px;
+	width: 100px;
+}
+#bio {
+	color: white;
+	font-style: italic;
+	font-family: Times New Roman
+}
+html {
+	background-image: url("FG5.gif");
+	background-size: cover;
+	background-repeat: repeat;
+}
+a:link {
+	color: blue;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	color: red;
+}
+a:active {
+	color: yellow;
+}
